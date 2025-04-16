@@ -33,7 +33,7 @@
         double_perk_points_gain: 0,
         instant_dark_matter: 0,
         keep_dark_mater_skills: 0,
-        hyper_speed: 0,
+        hyper_speed: 1,
         both_dark_mater_skills: 0,
         evil_booster: 0,
         more_perk_points : 0
@@ -138,7 +138,7 @@ var autoBuyEnabled = true
 
 const updateSpeed = 20
 const baseLifespan = 365 * 70
-const baseGameSpeed = 40
+const baseGameSpeed = 4
 const heroIncomeMult = 2.5e18
 
 const permanentUnlocks = ["Quick task display", "Evil perks", "Rebirth tab", "Dark Matter", "Dark Matter Skills", "Dark Matter Skills2", "Metaverse", "Metaverse Perks", "Metaverse Perks Button", "Congratulations"]
